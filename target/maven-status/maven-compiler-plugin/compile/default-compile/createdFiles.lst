@@ -1,0 +1,17 @@
+musics\arts\App.class
+musics\arts\controller\ArtistController.class
+musics\arts\models\Song.class
+musics\arts\controller\GenreController.class
+musics\arts\services\ArtistsService.class
+musics\arts\config\DaoSpringConfig.class
+musics\arts\models\Genre.class
+musics\arts\models\Artist.class
+musics\arts\repositories\SongRepository.class
+musics\arts\services\impl\ArtistServiceImpl.class
+musics\arts\services\impl\SongServiceImpl.class
+musics\arts\services\impl\GenreServiceImpl.class
+musics\arts\repositories\GenreRepository.class
+musics\arts\repositories\ArtistsRepository.class
+musics\arts\controller\SongController.class
+musics\arts\services\GenreService.class
+musics\arts\services\SongService.class
